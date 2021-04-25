@@ -6,6 +6,8 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.Pane;
 
 public class mainController extends Solver {
+	
+	//extends solver class
 
 	String[][] vals = new String[9][9];
 	int[][] intVals = new int[9][9];
